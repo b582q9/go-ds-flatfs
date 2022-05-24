@@ -1,4 +1,4 @@
-module github.com/ipfs/go-ds-flatfs
+module github.com/b582q9/go-ds-flatfs
 
 require (
 	github.com/ipfs/go-datastore v0.1.0
