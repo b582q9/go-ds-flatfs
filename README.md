@@ -26,7 +26,7 @@
 
 
 ```
-import "github.com/ipfs/go-ds-flatfs"
+import "github.com/b582q9/go-ds-flatfs"
 ```
 
 `go-ds-flatfs` uses [`Gx`](https://github.com/whyrusleeping/gx) and [`Gx-go`](https://github.com/whyrusleeping/gx-go) to handle dependendencies. Run `make deps` to download and rewrite the imports to their fixed dependencies.

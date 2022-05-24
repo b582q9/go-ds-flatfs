@@ -19,7 +19,7 @@ import (
 	"github.com/ipfs/go-datastore/query"
 	dstest "github.com/ipfs/go-datastore/test"
 
-	"github.com/ipfs/go-ds-flatfs"
+	"github.com/b582q9/go-ds-flatfs"
 )
 
 func tempdir(t testing.TB) (path string, cleanup func()) {
